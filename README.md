@@ -2,6 +2,8 @@
 ### This project implements a temperature calculator and demonstrates the use of react-bootstrap
 
 The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app); i.e. `npx crete-react-app <app_name>`
+#### Great react-bootstrap tutorial can be found [here](https://react-bootstrap.github.io/getting-started/introduction/) and [here](https://www.w3schools.com/bootstrap/default.asp)
+
 
 #### To use react-bootstrap:
 - Install react-bootstrap dependency:
@@ -21,10 +23,6 @@ The project was bootstrapped with [Create React App](https://github.com/facebook
   ```
   <Button bsStyle="info">Click Me!</Button>
   ```
-Great react-bootstrap tutorial can be found here: https://react-bootstrap.github.io/getting-started/introduction/
-
-and here: https://www.w3schools.com/bootstrap/default.asp
-
 #### To start working on this project:
 - `git clone` to clone the project
 - `cd` to the app folder
